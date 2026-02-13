@@ -1,0 +1,43 @@
+import { ThemeColors } from '../types';
+
+export const LightColors: ThemeColors = {
+  primary: '#6C63FF',
+  secondary: '#03DAC6',
+  background: '#F5F7FA',
+  surface: '#FFFFFF',
+  text: '#1A1A2E',
+  textSecondary: '#6B7280',
+  border: '#E5E7EB',
+  card: '#FFFFFF',
+  codeBackground: '#F8F9FC',
+  codeText: '#333333',
+  reactNative: '#61DAFB',
+  javascript: '#F0DB4F',
+  accent: '#FF6B6B',
+  success: '#10B981',
+  warning: '#F59E0B',
+  error: '#EF4444',
+  gradient1: '#6C63FF',
+  gradient2: '#4ECDC4',
+};
+
+export const DarkColors: ThemeColors = {
+  primary: '#8B83FF',
+  secondary: '#03DAC6',
+  background: '#0F0F1A',
+  surface: '#1A1A2E',
+  text: '#E8E8F0',
+  textSecondary: '#9CA3AF',
+  border: '#2D2D44',
+  card: '#1E1E32',
+  codeBackground: '#16162A',
+  codeText: '#CCCCCC',
+  reactNative: '#61DAFB',
+  javascript: '#F0DB4F',
+  accent: '#FF6B6B',
+  success: '#10B981',
+  warning: '#F59E0B',
+  error: '#EF4444',
+  gradient1: '#8B83FF',
+  gradient2: '#4ECDC4',
+};
